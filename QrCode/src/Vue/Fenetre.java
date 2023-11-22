@@ -56,7 +56,7 @@ public class Fenetre extends JFrame {
         contentPane.setLayout(null);
 
         // Création d'un bouton.
-        btnNewButton = new JButton("New button");
+        btnNewButton = new JButton("Générer le QrCode");
         btnNewButton.setBounds(10, 194, 416, 59);
         contentPane.add(btnNewButton);
 
@@ -67,7 +67,7 @@ public class Fenetre extends JFrame {
         textField.setColumns(10);
         
         JLabel lblNewLabel = new JLabel("Couleur du texte :");
-        lblNewLabel.setBounds(20, 62, 88, 20);
+        lblNewLabel.setBounds(20, 62, 133, 20);
         contentPane.add(lblNewLabel);
         
         comboBox = new JComboBox();
@@ -84,7 +84,7 @@ public class Fenetre extends JFrame {
         comboBox.addItem("brown");
         
         JLabel lblTailleDuTexte = new JLabel("Taille du texte :");
-        lblTailleDuTexte.setBounds(20, 88, 88, 20);
+        lblTailleDuTexte.setBounds(20, 88, 133, 20);
         contentPane.add(lblTailleDuTexte);
         
         spinner = new JSpinner();
@@ -96,7 +96,7 @@ public class Fenetre extends JFrame {
         contentPane.add(lblContenueDuQrcode);
         
         JLabel lblPoliceDcriture = new JLabel("Police d'écriture :");
-        lblPoliceDcriture.setBounds(20, 115, 88, 20);
+        lblPoliceDcriture.setBounds(20, 115, 133, 20);
         contentPane.add(lblPoliceDcriture);
         
         Police = new JComboBox();
