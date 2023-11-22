@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/barcodes-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/bouncy-castle-adapter-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/bouncy-castle-connector-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/bouncy-castle-fips-adapter-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/commons-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/font-asian-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/forms-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/hyph-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/io-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/kernel-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/layout-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/pdfa-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/pdftest-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/sign-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/styled-xml-parser-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/iText-Core-8.0.2-only-jars/svg-8.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/MVC_QRcode.zip"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/zxing-j2se-1.7.jar/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_1/core-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_1/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_1/javase-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_1/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files/core-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-android-aarch64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-android-armv6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-linux-armv6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-android-aarch64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/aspose-words-23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-solaris-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-2.3.2-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/gluegen-rt-main-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-android-armv6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-linux-armv6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-solaris-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-2.3.2-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files_2/jogl-all-main-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Downloads/jar_files (1)/core-3.5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
